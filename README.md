@@ -15,5 +15,5 @@ Since there isn't any vine reviews, therefore 0 five-star vine reviews. And ther
 ![zero_paid_five_star_review](https://github.com/dilnigar1007/Amazon_Vine_Analysis/blob/main/zero_paid_five_star_review.png)
 
 ## Summary
-Before we filtered out the helpful votes rate under 50%, we had some reviews with "Y", so it means we had biased/paid reviews in this new dataframe. We can't say that any reviews related to videos are accurate, unpaid because before filtering out these reviews, we had some reviews with "Y" under vine variable if we look at the dataframe here.
-![paid reviews](https://github.com/dilnigar1007/Amazon_Vine_Analysis/blob/main/paid%20reviews.png)
+We didn't have any "Y"s under vine variable before filtering out any reviews and after. So we can say that Amazon reviews related to videos are pretty accurate and unbiased. We can trust these reviews when we purchase or watch a video there. 
+
